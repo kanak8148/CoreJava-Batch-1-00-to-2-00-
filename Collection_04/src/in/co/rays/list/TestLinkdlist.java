@@ -1,4 +1,4 @@
-package in.co.rays.collection;
+package in.co.rays.list;
 
 import java.util.LinkedList;
 import java.util.List;
